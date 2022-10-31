@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    text-align: center;
+    color: rgb(90, 14, 231);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40px;
+}
+
+div{
+    border: 2px solid black;
+    margin: 20px;
+    padding: 20px;
+    font-size: 20px;
+}
+
+.studies{
+    background-color: rgb(131, 218, 221);
+    color: rgb(9, 1, 94);
+    font-style: oblique;
+}
+ .studies img{
+    width: 180px;
+    height: 180px;
+ }
+
+ .hobby{
+    background-color: cornsilk;
+    color: rgb(7, 2, 2);
+    font-style: oblique;
+ }
+
+.hobby img{
+    width: 180px;
+    height: 180px;
+}
+
+.residence{
+    background-color: aliceblue;
+    color: rgb(18, 2, 2);
+    font-style: oblique;
+}
+
+.residence img{
+    width: 180px;
+    height: 180px;
+}
