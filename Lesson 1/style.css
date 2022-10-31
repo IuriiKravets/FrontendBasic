@@ -1,0 +1,23 @@
+span{
+    color: red;
+    font-size: 20px;
+}
+
+p{
+    color: blue;
+}
+
+img{
+    width: 200px;
+    height: 150px;
+}
+
+#instagramlogo{
+    width: 20px;
+    height: 20px;
+}
+
+.logo{
+    width: 40px;
+    height: 40px;
+}
